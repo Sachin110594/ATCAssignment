@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AutomationPractice" duration-ms="83993" started-at="2021-03-13T17:22:30 IST" finished-at="2021-03-13T17:23:54 IST">
+    <groups>
+    </groups>
+    <test name="Assignment" duration-ms="83993" started-at="2021-03-13T17:22:30 IST" finished-at="2021-03-13T17:23:54 IST">
+      <class name="com.automationPractice.testCases.TC_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.automationPractice.testCases.TC_001@528931cf]" name="setup" is-config="true" duration-ms="2566" started-at="2021-03-13T17:22:30 IST" finished-at="2021-03-13T17:22:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tc_001()[pri:0, instance:com.automationPractice.testCases.TC_001@528931cf]" name="tc_001" duration-ms="80478" started-at="2021-03-13T17:22:33 IST" finished-at="2021-03-13T17:23:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001 -->
+        <test-method status="PASS" signature="tiersetup()[pri:0, instance:com.automationPractice.testCases.TC_001@528931cf]" name="tiersetup" is-config="true" duration-ms="875" started-at="2021-03-13T17:23:53 IST" finished-at="2021-03-13T17:23:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tiersetup -->
+      </class> <!-- com.automationPractice.testCases.TC_001 -->
+    </test> <!-- Assignment -->
+  </suite> <!-- AutomationPractice -->
+</testng-results>
